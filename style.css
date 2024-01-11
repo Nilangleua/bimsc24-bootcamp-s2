@@ -1,0 +1,67 @@
+@ -1,52 +0,0 @@
+html{
+
+    background-color: black; 
+    color: white;
+
+
+}
+body{
+
+    margin: 0;
+
+}
+
+DIV{
+
+    box-sizing: border-box;
+
+}
+
+#navbar{
+
+    height: 50px;
+
+
+}
+
+#flex{
+
+    display: flex;
+    height: CALC(100VH - 50px);
+
+
+}
+
+#sidebar{
+
+    width: 30%;
+    color: blue;
+    background-color: yellow;
+
+}
+#mainpart1{
+
+    width: 35%;
+    color: red;
+    background-color: chocolate;
+
+}
+#mainpart2{
+
+    width: 35%;
+    color: blue;
+    background-color: green;
+
+
+}
+
+
+
+.container{
+
+    border-style: dotted;
+    border-color: #5d8b08d3;
+    border-width: 1px;
+    image-rendering: crisp-edges;
+}
